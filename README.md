@@ -19,4 +19,3 @@ https://github.com/learn-co-students/nyc-web-students-042219/blob/master/28-rail
 1. Provide a way for a user to filter or sort by triggering some even on the DOM (entering text in an input field; clicking a 'sort' button; picking a value from a select dropdown)
 1. **BONUS** If you added a create action to your backend, add a form to your frontend to allow users to create new instances of your model
 1. **SUPER BONUS** Add a way to update some attribute on your backend or delete some instance of a model
-
